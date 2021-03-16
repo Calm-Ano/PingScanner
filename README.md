@@ -14,9 +14,6 @@ java PScan
 ```
 
 # Usage
-
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
 ```this host ipaddr```
 
 PingScannerを動かすホストが所属するIPアドレスです。ネットワークアドレスまででかまいません。もちろんホスト部を記入しても動作します。
