@@ -1,4 +1,4 @@
-package PingScan;
+package src;
 
 import javax.swing.*;
 import java.awt.*;

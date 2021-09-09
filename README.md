@@ -5,13 +5,18 @@
 大学講義で習ったことを踏まえて作ってみました。Ipv4のみ対応です。
 
 # Installation
+環境
+```
+coretto-16
+```
+
 実行前作業
 ```bash
 git clone https://github.com/Calm-Ano/PingScanner
-cd ./PingScanner
-javac PScan.java
-java PScan
 ```
+
+実行するのは
+```PingScan/PScan.java```です。
 
 # Usage
 ```this host ipaddr```
@@ -28,11 +33,9 @@ IPv4のみ対応
 かなりもたつきます。
 
 # Author
-* KaitoIimura
+* Kaito Iimura
 * TokyoDenkiUniv
 * mushikaito@gmail.com
 
 # License
-ライセンスを明示する
-
 PingScanner is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
