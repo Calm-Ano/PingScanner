@@ -1,14 +1,12 @@
-package Work;
+package PingScan;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.print.Printable;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
-import java.text.MessageFormat;
 import javax.swing.table.*;
 
 public class PScan extends JFrame implements ActionListener{

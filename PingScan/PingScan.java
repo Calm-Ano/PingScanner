@@ -1,8 +1,7 @@
-package Work;
+package PingScan;
 
 import java.io.IOException;
 import java.net.InetAddress;
-import java.net.UnknownHostException;
 
 public class PingScan {
     private String hostname;
